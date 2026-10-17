@@ -1,9 +1,15 @@
 # Santiago Holtz
 
-### Product Engineer building thoughtful digital experiences.
+I'm a **Product Engineer at [YAFU](https://yafu.app)**, building digital products from idea to production.
 
-I'm a Product Engineer at [YAFU](https://yafu.app), focused on turning product ideas into reliable, user-friendly software.
+## 🚀 What I do
 
-I work across the product development lifecycle — from understanding the problem and designing the experience to implementation, integrations and production.
+I work across product, user experience, frontend, backend and integrations — turning ideas into software people can actually use.
 
-My recent work includes TypeScript, React, Next.js, Node.js, PostgreSQL and Supabase, but I'm always open to learning and using the right tools for each problem.
+## 🧩 What I'm working with lately
+
+TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase and Vercel — always choosing the right tools for each problem.
+
+## 🌱 What interests me
+
+Product engineering, thoughtful user experiences and software that remains understandable as it grows.
